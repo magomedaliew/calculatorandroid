@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--recktangle 1-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+ <item>
+  <shape android:shape="rectangle">
+   <corners android:radius="0dp"/>
+   <solid android:color="#FFFFFFFF"/>
+  </shape>
+ </item>
+</selector>
+<!--recktangle 2-->
+<!--<selector xmlns:android="http://schemas.android.com/apk/res/android">
+  <item>
+    <shape android:shape="rectangle">
+      <corners android:radius="5dp"/>
+      <gradient android:startColor="#F8F8FF" android:centerColor="#F1F1F8" android:endColor="#F8F8FF" android:type="sweep"/>
+    </shape>
+  </item>
+</selector>-->
+<!--backspace-->
+<!--<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+      android:drawable="@android:drawable/ic_input_delete"
+      android:width="40dp" android:height="40dp"/>
+</selector>-->

@@ -1,0 +1,188 @@
+﻿<resources>
+
+ <string name="A000">Rechner</string>
+ <string name="A001">Start</string>
+ <string name="A002">Anhang</string>
+ <string name="A003">Rechnen</string>
+ <string name="A004">Löschen</string>
+ <string name="A005">Ergebnisse</string>
+ <string name="A006">Dimensionen</string>
+ <string name="A007">Quelle</string>
+ <string name="A008">Darstellung</string>
+ <string name="A009">Detailliert</string>
+ <string name="A011">Rechner</string>
+ <string name="A012">Upgrade</string>
+ <string name="A013">Anwendung</string>
+ <string name="A014">Beispiele</string>
+ <string name="A015">Dimensionen</string>
+ <string name="A016">Formeln</string>
+ <string name="A017">Chemie</string>
+ <string name="A018">Physik</string>
+ <string name="A019">Mathematik</string>
+ <string name="A021">a:</string>
+ <string name="A022">a:</string>
+ <string name="A023">g:</string>
+ <string name="A024">g:</string>
+ <string name="A031">A u f g a b e</string>
+ <string name="A032">A u s d r u c k</string>
+ <string name="A033">G l e i c h u n g</string>
+ <string name="A034">F e h l e r</string>
+ <string name="A035">V e r s i o n</string>
+ <string name="A036">F o r m e l :</string>
+ <string name="A041">.</string>
+ <string name="A042">,</string>
+ <string name="A051">A1</string>
+ <string name="A052">B1</string>
+ <string name="B000">definition</string>
+ <string name="B001">acceleration</string>
+ <string name="B002">acceleration x</string>
+ <string name="B003">acceleration y</string>
+ <string name="B004">acceleration z</string>
+ <string name="B005">molar concentration</string>
+ <string name="B006">kinetic initial energy</string>
+ <string name="B007">kinetic final energy</string>
+ <string name="B008">kinetic energy change</string>
+ <string name="B009">potential initial energy</string>
+ <string name="B010">potential final energy</string>
+ <string name="B011">potential energy change</string>
+ <string name="B012">force</string>
+ <string name="B013">force x</string>
+ <string name="B014">force y</string>
+ <string name="B015">force z</string>
+ <string name="B016">spring force</string>
+ <string name="B017">spring force x</string>
+ <string name="B018">spring force y</string>
+ <string name="B019">spring force z</string>
+ <string name="B020">normal force</string>
+ <string name="B021">sliding friction force</string>
+ <string name="B022">sliding friction force x</string>
+ <string name="B023">sliding friction force y</string>
+ <string name="B024">sliding friction force z</string>
+ <string name="B025">static friction</string>
+ <string name="B026">static friction x</string>
+ <string name="B027">static friction y</string>
+ <string name="B028">static friction z</string>
+ <string name="B029">rolling friction force</string>
+ <string name="B030">rolling friction force x</string>
+ <string name="B031">rolling friction force y</string>
+ <string name="B032">rolling friction force z</string>
+ <string name="B033">traction force</string>
+ <string name="B034">traction force x</string>
+ <string name="B035">traction force y</string>
+ <string name="B036">traction force z</string>
+ <string name="B037">coefficient of friction</string>
+ <string name="B038">molar mass</string>
+ <string name="B039">mass</string>
+ <string name="B040">sliding friction coefficient</string>
+ <string name="B041">static friction coefficient</string>
+ <string name="B042">rolling friction coefficient</string>
+ <string name="B043">amount of substance</string>
+ <string name="B044">power</string>
+ <string name="B045">pulse</string>
+ <string name="B046">pulse x</string>
+ <string name="B047">pulse y</string>
+ <string name="B048">pulse z</string>
+ <string name="B049">initial displacement</string>
+ <string name="B050">initial displacement x</string>
+ <string name="B051">initial displacement y</string>
+ <string name="B052">initial displacement z</string>
+ <string name="B053">final displacement</string>
+ <string name="B054">final displacement x</string>
+ <string name="B055">final displacement y</string>
+ <string name="B056">final displacement z</string>
+ <string name="B057">displacement change</string>
+ <string name="B058">displacement change x</string>
+ <string name="B059">displacement change y</string>
+ <string name="B060">displacement change z</string>
+ <string name="B061">initial time</string>
+ <string name="B062">final time</string>
+ <string name="B063">time change</string>
+ <string name="B064">volume</string>
+ <string name="B065">constant velocity</string>
+ <string name="B066">constant velocity x</string>
+ <string name="B067">constant velocity y</string>
+ <string name="B068">constant velocity z</string>
+ <string name="B069">initial velocity</string>
+ <string name="B070">initial velocity x</string>
+ <string name="B071">initial velocity y</string>
+ <string name="B072">initial velocity z</string>
+ <string name="B073">final velocity</string>
+ <string name="B074">final velocity x</string>
+ <string name="B075">final velocity y</string>
+ <string name="B076">final velocity z</string>
+ <string name="B077">velocity change</string>
+ <string name="B078">velocity change x</string>
+ <string name="B079">velocity change y</string>
+ <string name="B080">velocity change z</string>
+ <string name="B081">average velocity</string>
+ <string name="B082">average velocity x</string>
+ <string name="B083">average velocity y</string>
+ <string name="B084">average velocity z</string>
+ <string name="B085">work</string>
+ <string name="B086">angle θ</string>
+ <string name="B087">angle ϕ</string>
+
+ <string name="C001">1 Unveränderte Form</string>
+ <string name="C002">2 Vereinfachte Form</string>
+ <string name="C003">2.1 Die Zahl 0</string>
+ <string name="C004">2.2 Die Zahl 1</string>
+ <string name="C005">2.3 Die Zahl е</string>
+ <string name="C006">2.4 Die Zahl π</string>
+ <string name="C007">2.5 Vorzeichen</string>
+ <string name="C008">2.6 Klammern</string>
+ <string name="C009">2.7 Betrag</string>
+ <string name="C010">2.8 Gleiche</string>
+ <string name="C011">2.9 Unbestimmte</string>
+ <string name="C012">2.10 Reihenfolge</string>
+ <string name="C013">2.11 Rechnen mit Zahlen</string>
+ <string name="C014">2.12 Winkelfunktionen mit Zahlen</string>
+ <string name="C015">2.13 Logarithmen mit Zahlen</string>
+ <string name="C016">2.14 Faktorielle</string>
+ <string name="C017">2.15 Differentiation einer Zahl</string>
+ <string name="C018">3 Klammer</string>
+
+ <string-array name="T001">
+  <item>Der Rechner zeigt Formeln, Rechnungen und Lösungen für Mathematik, Physik und Chemie</item>
+  <item>Inhalt: Physik: ≈ 2 000 mechanische Formeln eines Körpers</item>
+  <item>Inhalt: Chemie: 10 Formeln</item>
+  <item>Inhalt: Mathematik: sind unter A2 / Mathematik</item>
+  <item>Genauigkeit: ≈ 100%</item>
+ </string-array>
+ <string-array name="T002">
+  <item>Korrekturen</item>
+  <item>Die physikalesche Formeln sind wieder verfügbar</item>
+ </string-array>
+ <string-array name="T003">
+  <item>Aufgabe</item>
+  <item>(In Bearbeitung. Nach dem Klick erscheint die Tastatur)</item>
+  <item>Ausdruck</item>
+  <item>Für Eingabe einen mathematischen Ausdrucks. Nach dem Klick erscheint die Tastatur</item>
+  <item>Minus mit Leerzeichen zwischen Variablen oder Konstanten ist ein Operator</item>
+  <item>Minus ohne Leerzeichen vor einer Variable oder Konstante ist ein Vorzeichen</item>
+  <item>RECHNEN</item>
+  <item>Rechnet die Eingabe</item>
+  <item>ERGEBNISSE</item>
+  <item>Erscheint bei kürzeren Ergebnisse nach dem Klick auf RECHNEN oder DETAILLIERT</item>
+  <item>Nach langem Klicken kehrt wieder zu RECHNEN zurück</item>
+  <item>DETAILLIERT</item>
+  <item>Erscheint bei detaillierten Ergebnisse nach dem Klick auf ERGEBNISSE</item>
+  <item>Nach langem Klicken kehrt wieder zu RECHNEN zurück</item>
+  <item>LÖSCHEN</item>
+  <item>Löscht alle Eingaben und Ausgaben</item>
+  <item>A1, A2, A3</item>
+  <item>Seiten Wechsel</item>
+  <item>B1, B2, B3</item>
+  <item>Tastaturwechsel mit einem kurzen oder langen Klick</item>
+  <item>Beispiel 1</item>
+  <item>In der Zeile "Ausdruck" einen Ausdruck, zum Beispiel 3 - (π) : e, eingeben und auf RECHNEN klicken</item>
+  <!--<item>Beispiel 1</item>
+    <item>Wie groß ist die Zuggeschwindigkeit, wenn dieser von Stillstand geradling beschleunigt und legt 55 Meter in 10 Sekunden zurück?</item>
+    <item>In diesem Beispiel gegebene Variablen sind Δs = 55 m und Δt = 10 s, und gesuchte Variable ist {v}.</item>
+    <item>Die erste Variable im Kode ist gesuchte Variable. Dann folgen Δs und Δt (schon in alphabetischer Reihenfolge).</item>
+    <item>Der Kode ist: {v} Δs Δt. Unter A / Quelle ist eine Information über die Formelquelle.</item>-->
+ </string-array>
+
+ <string name="app_name">calculatorandroid</string>
+ <string name="action_settings">Settings</string>
+
+</resources>

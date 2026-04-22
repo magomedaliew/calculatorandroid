@@ -1,0 +1,188 @@
+﻿<resources>
+ <string name="A000">calculator</string>
+ <string name="A001">start</string>
+ <string name="A002">attachment</string>
+ <string name="A003">calculate</string>
+ <string name="A004">clear</string>
+ <string name="A005">results</string>
+ <string name="A006">dimensions</string>
+ <string name="A007">source</string>
+ <string name="A008">depiction</string>
+ <string name="A009">detailed</string>
+ <string name="A011">calculator</string>
+ <string name="A012">upgrade</string>
+ <string name="A013">application</string>
+ <string name="A014">examples</string>
+ <string name="A015">dimensions</string>
+ <string name="A016">formulas</string>
+ <string name="A017">chemistry</string>
+ <string name="A018">physics</string>
+ <string name="A019">mathematics</string>
+ <string name="A021">e:</string>
+ <string name="A022">e:</string>
+ <string name="A023">e:</string>
+ <string name="A024">e:</string>
+ <string name="A031">a s s i g n m e n t</string>
+ <string name="A032">e x p r e s s i o n</string>
+ <string name="A033">e q u a t i o n</string>
+ <string name="A034">e r r o r</string>
+ <string name="A035">v e r s i o n</string>
+ <string name="A036">f o r m u l a : </string>
+ <string name="A041">,</string>
+ <string name="A042">.</string>
+ <string name="A051">A1</string>
+ <string name="A052">B1</string>
+ <string name="B000">definition</string>
+ <string name="B001">acceleration</string>
+ <string name="B002">acceleration x</string>
+ <string name="B003">acceleration y</string>
+ <string name="B004">acceleration z</string>
+ <string name="B005">molar concentration</string>
+ <string name="B006">kinetic initial energy</string>
+ <string name="B007">kinetic final energy</string>
+ <string name="B008">kinetic energy change</string>
+ <string name="B009">potential initial energy</string>
+ <string name="B010">potential final energy</string>
+ <string name="B011">potential energy change</string>
+ <string name="B012">force</string>
+ <string name="B013">force x</string>
+ <string name="B014">force y</string>
+ <string name="B015">force z</string>
+ <string name="B016">spring force</string>
+ <string name="B017">spring force x</string>
+ <string name="B018">spring force y</string>
+ <string name="B019">spring force z</string>
+ <string name="B020">normal force</string>
+ <string name="B021">sliding friction force</string>
+ <string name="B022">sliding friction force x</string>
+ <string name="B023">sliding friction force y</string>
+ <string name="B024">sliding friction force z</string>
+ <string name="B025">static friction</string>
+ <string name="B026">static friction x</string>
+ <string name="B027">static friction y</string>
+ <string name="B028">static friction z</string>
+ <string name="B029">rolling friction force</string>
+ <string name="B030">rolling friction force x</string>
+ <string name="B031">rolling friction force y</string>
+ <string name="B032">rolling friction force z</string>
+ <string name="B033">traction force</string>
+ <string name="B034">traction force x</string>
+ <string name="B035">traction force y</string>
+ <string name="B036">traction force z</string>
+ <string name="B037">coefficient of friction</string>
+ <string name="B038">molar mass</string>
+ <string name="B039">mass</string>
+ <string name="B040">sliding friction coefficient</string>
+ <string name="B041">static friction coefficient</string>
+ <string name="B042">rolling friction coefficient</string>
+ <string name="B043">amount of substance</string>
+ <string name="B044">power</string>
+ <string name="B045">pulse</string>
+ <string name="B046">pulse x</string>
+ <string name="B047">pulse y</string>
+ <string name="B048">pulse z</string>
+ <string name="B049">initial displacement</string>
+ <string name="B050">initial displacement x</string>
+ <string name="B051">initial displacement y</string>
+ <string name="B052">initial displacement z</string>
+ <string name="B053">final displacement</string>
+ <string name="B054">final displacement x</string>
+ <string name="B055">final displacement y</string>
+ <string name="B056">final displacement z</string>
+ <string name="B057">displacement change</string>
+ <string name="B058">displacement change x</string>
+ <string name="B059">displacement change y</string>
+ <string name="B060">displacement change z</string>
+ <string name="B061">initial time</string>
+ <string name="B062">final time</string>
+ <string name="B063">time change</string>
+ <string name="B064">volume</string>
+ <string name="B065">constant velocity</string>
+ <string name="B066">constant velocity x</string>
+ <string name="B067">constant velocity y</string>
+ <string name="B068">constant velocity z</string>
+ <string name="B069">initial velocity</string>
+ <string name="B070">initial velocity x</string>
+ <string name="B071">initial velocity y</string>
+ <string name="B072">initial velocity z</string>
+ <string name="B073">final velocity</string>
+ <string name="B074">final velocity x</string>
+ <string name="B075">final velocity y</string>
+ <string name="B076">final velocity z</string>
+ <string name="B077">velocity change</string>
+ <string name="B078">velocity change x</string>
+ <string name="B079">velocity change y</string>
+ <string name="B080">velocity change z</string>
+ <string name="B081">average velocity</string>
+ <string name="B082">average velocity x</string>
+ <string name="B083">average velocity y</string>
+ <string name="B084">average velocity z</string>
+ <string name="B085">work</string>
+ <string name="B086">angle θ</string>
+ <string name="B087">angle ϕ</string>
+
+ <string name="C001">1 Unmodified form</string>
+ <string name="C002">2 Simplified form</string>
+ <string name="C003">2.1 The number 0</string>
+ <string name="C004">2.2 The number 1</string>
+ <string name="C005">2.3 The number е</string>
+ <string name="C006">2.4 The number π</string>
+ <string name="C007">2.5 Sign "-"</string>
+ <string name="C008">2.6 Bracket</string>
+ <string name="C009">2.7 Modulus</string>
+ <string name="C010">2.8 Same variables</string>
+ <string name="C011">2.9 Indeterminate forms</string>
+ <string name="C012">2.10 Order of variables</string>
+ <string name="C013">2.11 Calculating with numbers</string>
+ <string name="C014">2.12 Trigonometric functions with numbers</string>
+ <string name="C015">2.13 Logarithms with numbers</string>
+ <string name="C016">2.14 Factorial</string>
+ <string name="C017">2.15 Differentiation of a number</string>
+ <string name="C018">3 Distribution 1</string>
+
+ <string-array name="T001">
+  <item>The calculator shows formulas, calculations and solutions for mathematics, physics and chemistry</item>
+  <item>Content physics: ≈ 2 000 mechanical formulas of a body</item>
+  <item>Content chemistry: ≈ 10 formulas</item>
+  <item>Content mathematics: are under A2 / Mathematics</item>
+  <item>Accuracy: ≈ 100 %</item>
+ </string-array>
+ <string-array name="T002">
+  <item>Corrections</item>
+  <item>Physical formulas are available again</item>
+ </string-array>
+ <string-array name="T003">
+  <item>Assignment</item>
+  <item>(In Progress. After the click, the keyboard appears)</item>
+  <item>Expression</item>
+  <item>For entering a mathematical expression. After the click, the keyboard appears</item>
+  <item>Minus with spaces between variables or constants is an operator</item>
+  <item>Minus without a space before a variable or constant is a minus sign</item>
+  <item>CALCULATE</item>
+  <item>Calculates the input</item>
+  <item>RESULTS</item>
+  <item>Appears with fewer results after clicking on CALCULATE or DETAILED</item>
+  <item>After a long click returns to CALCULATE</item>
+  <item>DETAILED</item>
+  <item>Appears with detailed results after clicking on RESULTS</item>
+  <item>After a long click returns to CALCULATE</item>
+  <item>CLEAR</item>
+  <item>Clears all inputs and outputs</item>
+  <item>A1, A2, A3</item>
+  <item>Change of sides</item>
+  <item>B1, B2, B3</item>
+  <item>Keyboard switch with a short or long click</item>
+  <!--. After a long click of B2 or B3 (after first activation of gboard) switches to gboard, from B1 the keyboard turns off-->
+  <item>Example 1</item>
+  <item>Enter an expression, for example 3 - (π) : e, in the "expression" line and click on CALCULATE</item>
+  <!--<item>Example 1</item>
+    <item>What is the train speed when the train accelerates from a standing position and reaches 55 meters in 10 seconds?</item>
+    <item>Dimensions given in this example are Δs = 55m and Δt = 10s, and the dimension sought is {v}.</item>
+    <item>The first dimension in the code is the dimension you are looking for. Then follow Δs and Δt (already in alphabetical order).</item>
+    <item>The code is: {v} Δs Δt. Under A / source is an information about the formula source.</item>-->
+ </string-array>
+
+ <string name="app_name">calculatorandroid</string>
+ <string name="action_settings">Settings</string>
+
+</resources>

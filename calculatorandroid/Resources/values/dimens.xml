@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <dimen name="dimens0">0</dimen>
+ <dimen name="dimens1">1</dimen>
+ <dimen name="dimens2">2</dimen>
+ <dimen name="dimens3">3</dimen>
+ <dimen name="dimens4">4</dimen>
+ <dimen name="dimens5">5</dimen>
+ <dimen name="dimens6">6</dimen>
+ <dimen name="dimens7">7</dimen>
+ <dimen name="dimens10">10</dimen>
+ <dimen name="dimenss">0.7</dimen>
+ <dimen name="dimendp10">10dp</dimen>
+ <dimen name="dimendp80">80dp</dimen>
+ <dimen name="dimensp16">16sp</dimen>
+ <dimen name="dimensp18">18sp</dimen>
+ <dimen name="fab_margin">16dp</dimen>
+</resources>

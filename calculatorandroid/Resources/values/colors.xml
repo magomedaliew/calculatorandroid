@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+ <drawable name="color1">#FFF0F8FF</drawable>
+ <drawable name="color2">#FFFFB6C1</drawable>
+ <drawable name="color3">#FF9400D3</drawable>
+ <drawable name="color4">#FF0000FF</drawable>
+ <drawable name="color5">#FF87CEEB</drawable>
+ <drawable name="color6">#FFFFFFFF</drawable>
+ <drawable name="color7">#FFB8860B</drawable>
+ <drawable name="color8">#FFFFD700</drawable>
+ <drawable name="color9">#FF69F509</drawable>
+ <drawable name="color10">#1A3959</drawable>
+
+ <color name="colorAccent">#3498db</color>
+ <color name="colorPrimary">#FFF0F8FF</color>
+ <color name="colorPrimaryDark">#1B3147</color>
+</resources>
