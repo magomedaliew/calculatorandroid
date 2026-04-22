@@ -21,9 +21,9 @@ Content Expansion: Continuously increasing the library of definition formulas to
 
 System Refinement: Ongoing error correction, logic validation, and feature enhancement.
 
-Link References:
-
-Windows project:
+Windows Project:
 https://github.com/magomedaliew/calculatorwindow
 
-Maui project:
+Maui Project:
+
+Thanks
