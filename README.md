@@ -19,9 +19,12 @@ a comprehensive computational engine designed to provide formulas, solutions, an
 
 • System Refinement: Ongoing error correction, logic validation, and feature enhancement.
 
-Windows Project:
+**Link References**:
+
+• Windows Project:
 https://github.com/magomedaliew/calculatorwindow
 
-Maui Project:
+• Maui Project:
+https://github.com/magomedaliew/calculator
 
 Thanks
